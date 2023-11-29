@@ -7,4 +7,4 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-<img width="1624" alt="Screenshot 2023-11-29 at 10 01 22 PM" src="https://github.com/bottomright/chatbot-demo/assets/149066826/73b91c6e-60cf-4c7e-8eb7-9b0a89af276c">
+<img width="1469" alt="chatbot-demo" src="https://github.com/bottomright/chatbot-demo/assets/149066826/ecf0b3bb-e94d-4cbd-a98c-3c12abad4cab">
