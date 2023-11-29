@@ -4,7 +4,7 @@ defmodule ChatbotWeb.ChatbotLiveView do
   def mount(_params, _session, socket) do
     socket =
     socket
-    |> assign(messages: [%{id: :welcome, type: :received, body: "Hi 👋 I am an AI-Powered chatbot, ask me anything!"}])
+    |> assign(messages: [%{id: :welcome, type: :received, body: "Hi 👋 I am chatbot, ask me anything!"}])
     {:ok, socket}
   end
 
@@ -24,7 +24,7 @@ defmodule ChatbotWeb.ChatbotLiveView do
     ~H"""
     <div class="flex h-16 grow-0 shrink-0 bg-[#4635b8]">
       <div class="my-auto mx-4 w-full font-bold text-lg text-left text-white">
-        Welcome to AI Chatbot
+        Welcome to ACME!
       </div>
     </div>
     """
